@@ -1,0 +1,5 @@
+{
+  "name": "Zenith Financial Planner",
+  "description": "A comprehensive financial planning web application to track income, expenses, and work towards your financial goals. Features include real-time data sync, goal tracking with projections, and insightful charts.",
+  "requestFramePermissions": []
+}
